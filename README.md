@@ -11,6 +11,9 @@
 
 <hr>
 
+<div>
+  <img src="https://github.com/beatrizmunhozl/beatrizmunhozl/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 <div>
   <h3>Redes Sociais:</h3>

@@ -1,5 +1,4 @@
-<h2>Olá, me chamo Gabriel Castro.</h2>
-<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+me+chamo+Gabriel!" alt="Typing SVG" /></a>
 
 ![chatfly's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatfly&theme=city_lights)
 
@@ -11,6 +10,8 @@
 </div>
 
 <hr>
+
+
 <div>
   <h3>Redes Sociais:</h3>
   <a href="https://www.youtube.com/channel/UC1ihFRUP4zPMZbu5E-0bI5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

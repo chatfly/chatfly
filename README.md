@@ -12,10 +12,6 @@
 <hr>
 
 <div>
-  <img src="https://github.com/beatrizmunhozl/beatrizmunhozl/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
-<div>
   <h3>Redes Sociais:</h3>
   <a href="https://www.youtube.com/channel/UC1ihFRUP4zPMZbu5E-0bI5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/g.mcastro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+me+chamo+Gabriel!" alt="Typing SVG" /></a>
 
-![chatfly's GitHub stats](https://github-readme-stats.vercel.app/api?username=chatfly&theme=city_lights)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatfly&layout=compact&hide_border=true&title_color=ffffff&text_color=eb1f6a&bg_color=0d1117" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
